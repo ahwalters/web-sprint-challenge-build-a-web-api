@@ -91,3 +91,5 @@ typings/
 
 # databases
 *.db3
+
+.env
